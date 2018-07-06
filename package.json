@@ -1,0 +1,23 @@
+{
+  "name": "transform-path-webpack-resolve-plugin",
+  "version": "1.0.0",
+  "description": "transform path when webpack resolve path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacider/transform-path-webpack-resolve-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "resolve"
+  ],
+  "author": "blacider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blacider/transform-path-webpack-resolve-plugin/issues"
+  },
+  "homepage": "https://github.com/blacider/transform-path-webpack-resolve-plugin#readme"
+}
