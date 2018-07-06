@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/blacider/transform-path-webpack-resolve-plugin/issues"
   },
-  "homepage": "https://github.com/blacider/transform-path-webpack-resolve-plugin#readme"
+  "homepage": "https://github.com/blacider/transform-path-webpack-resolve-plugin#readme",
+  "dependencies": {
+    "enhanced-resolve": "^4.1.0",
+    "object-assign": "^4.1.1"
+  }
 }
